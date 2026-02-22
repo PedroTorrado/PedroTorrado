@@ -1,5 +1,7 @@
 ## 🌐 Socials:
 Hi! I'm Pedro, a Computer Engineering graduate passionate about **robotics, embedded systems, and software that interacts with hardware**.  
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrotorrado)  
 
 # 💻 Tech Stack:
@@ -9,9 +11,8 @@ Hi! I'm Pedro, a Computer Engineering graduate passionate about **robotics, embe
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PedroTorrado&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PedroTorrado&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTorrado&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- GitHub Readme Stats -->
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroTorrado&theme=calm&show_icons=true&count_private=true)
+![Pedro's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PedroTorrado&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTorrado&theme=calm&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
